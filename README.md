@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 As an accomplished marketer specializing in AI, I have a successful history of merging data-driven insights and technology to optimize marketing strategies. My expertise in Python and data analysis tools, such as Pandas and Numpy, empowers me to extract valuable insights from vast datasets.
 
 I recently harnessed Twitter data to examine past marketing campaigns, using tools like Power Bi and Tableau to visualize data effectively. I am currently extending this project, performing a detailed analysis of Nike's 'Dream Crazy' campaign.
