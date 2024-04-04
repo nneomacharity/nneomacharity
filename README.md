@@ -1,10 +1,12 @@
 ### Hi there! 👋
-As an accomplished marketer specializing in AI, I have a successful history of merging data-driven insights and technology to optimize marketing strategies. My expertise in Python and data analysis tools, such as Pandas and Numpy, empowers me to extract valuable insights from vast datasets.
+With a rich background in AI-driven marketing, I excel in blending data analytics and cutting-edge technology to enhance marketing approaches. My proficiency encompasses machine learning, generative AI, natural language procssing and neural networks, allowing me to leverage these tools for strategic insights.
 
-I recently harnessed Twitter data to examine past marketing campaigns, using tools like Power Bi and Tableau to visualize data effectively. I am currently extending this project, performing a detailed analysis of Nike's 'Dream Crazy' campaign.
+My recent project involved analyzing historical marketing data from Twitter to dissect the nuances of Nike's 'Dream Crazy' campaign, employing Python's DASH framework for in-depth evaluation.
 
-Having served as a Social Media Manager and Content Creator, I oversaw content strategies on various platforms, engaging audiences and crafting successful campaigns. My role as a Social Media Ambassador at the University of Essex allowed me to collaborate on impactful outreach programs.
+My experience extends to roles such as Digital Marketer, Social Media Manager and Content Creator, where I led content strategy across platforms, engaging diverse audiences and spearheading successful campaigns. At the University of Essex, my position as a Social Media Ambassador enabled me to partake in significant outreach endeavors.
 
-I have a Master's degree in Artificial Intelligence from the University of Essex and a solid background in Mathematics and Education. Beyond work, I support diversity and inclusion initiatives, contributing to groups like Women in Data and Black Women in Stem.
+I hold a Master's degree in Artificial Intelligence from the University of Essex, underpinned by a strong foundation in Mathematics and Education. I'm also an active supporter of diversity and inclusion, contributing to initiatives like Women in Data and Black Women in STEM.
 
-I am passionate about harnessing technology to revolutionize marketing. I invite you to connect with me to explore collaborative opportunities and shape innovative marketing strategies together.
+Driven by a passion to redefine marketing through technology, I am eager to connect and collaborate on transformative marketing strategies. My conviction is that the essence of achieving business objectives lies in the relationship between businesses and their consumers. Over the last five years, I've honed skills in digital marketing, covering email marketing, social media management, business data analytics, content creation, SEO, PPC ads, influencer marketing, and affiliate marketing.
+
+With advanced expertise in artificial intelligence, I am now focused on developing AI solutions tailored to address current challenges in digital marketing, employing machine learning, natural language processing, and generative AI, all rooted in marketing data insights.
